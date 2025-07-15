@@ -3,6 +3,7 @@ Install CMS Music Box Untuk Lagu Gereja.
 // Versi 2.0 / Php script
 Tersedia Versi Android.
 
-Download dibawah ini:
+Download versi android dibawah ini:
 https://jemaat.my.id
-atau unduh apk langsung disini:
+atau
+https://mbox.jemaat.my.id
